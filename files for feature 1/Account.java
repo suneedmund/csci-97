@@ -4,7 +4,8 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 
 /**
- * User: sup
+ * User: sup & FIsh
+ *
  */
 public interface Account extends Remote{
 
