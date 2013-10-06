@@ -3,7 +3,7 @@ import java.rmi.RemoteException;
 
 /**
  * User: sup
- * Date: 23/11/11
+ * Date: 23/11/12
  * Time: 10:50 PM
  */
 public interface Hello extends Remote {
